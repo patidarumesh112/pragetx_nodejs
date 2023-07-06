@@ -1,0 +1,19 @@
+{
+  "name": "pragetx",
+  "version": "1.0.0",
+  "description": "This the practical task on nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patidarumesh112/pragetx_nodejs.git"
+  },
+  "author": "umesh patidar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patidarumesh112/pragetx_nodejs/issues"
+  },
+  "homepage": "https://github.com/patidarumesh112/pragetx_nodejs#readme"
+}
